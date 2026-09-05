@@ -26,7 +26,7 @@ I build practical intelligent applications using **Machine Learning, Computer Vi
 
 # 🔥 Featured Projects
 
-### 🏆 [TenderForge — Multi-Agent Cognitive RAG Platform](https://github.com/gouripai2405/TenderForge)
+### 🏆 [TenderForge — Multi-Agent Cognitive RAG Platform](https://github.com/gouripai2405/TenderForge-Multi-Agent-RAG-Platform)
 
 A RAG-based tender intelligence platform designed to automate tender-document analysis, evidence retrieval, eligibility assessment, risk evaluation, and bid/no-bid decision support.
 
